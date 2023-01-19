@@ -1,7 +1,5 @@
 provider "aws"{
     region = "ap-southeast-2"
-    access_key = "AKIAU45BQBVYEPRXFHMA"
-    secret_key = "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"
 }
 
 #获取已经存在的资源
